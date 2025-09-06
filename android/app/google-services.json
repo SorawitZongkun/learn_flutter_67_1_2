@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "573233397294",
+    "project_id": "learn-flutter-67-2",
+    "storage_bucket": "learn-flutter-67-2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573233397294:android:d7956a230d32a4448da9bf",
+        "android_client_info": {
+          "package_name": "com.example.learn_flutter_67_1_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2Pae1QaOXI20XD-LFQ1mLRkXQAH6XrbQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
